@@ -1,0 +1,16 @@
+def print_name
+puts "Guy Fieri"
+end
+
+def return_name
+"Guy Fieri"
+end
+
+
+
+def print_and_return_name
+puts "Guy Fieri"
+"Guy Fieri"
+end
+
+print_and_return_name
